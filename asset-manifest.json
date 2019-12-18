@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/15-puzzle_game-react/static/css/main.111a5afc.chunk.css",
-    "main.js": "/15-puzzle_game-react/static/js/main.3021c5b4.chunk.js",
-    "main.js.map": "/15-puzzle_game-react/static/js/main.3021c5b4.chunk.js.map",
+    "main.js": "/15-puzzle_game-react/static/js/main.eee19dce.chunk.js",
+    "main.js.map": "/15-puzzle_game-react/static/js/main.eee19dce.chunk.js.map",
     "runtime~main.js": "/15-puzzle_game-react/static/js/runtime~main.d08d542d.js",
     "runtime~main.js.map": "/15-puzzle_game-react/static/js/runtime~main.d08d542d.js.map",
     "static/js/2.76520e5e.chunk.js": "/15-puzzle_game-react/static/js/2.76520e5e.chunk.js",
     "static/js/2.76520e5e.chunk.js.map": "/15-puzzle_game-react/static/js/2.76520e5e.chunk.js.map",
     "index.html": "/15-puzzle_game-react/index.html",
-    "precache-manifest.47f8fbb31cdb5237096446fe7a9da0ce.js": "/15-puzzle_game-react/precache-manifest.47f8fbb31cdb5237096446fe7a9da0ce.js",
+    "precache-manifest.f038ddf88386677c0b48dfc1a365af56.js": "/15-puzzle_game-react/precache-manifest.f038ddf88386677c0b48dfc1a365af56.js",
     "service-worker.js": "/15-puzzle_game-react/service-worker.js",
     "static/css/main.111a5afc.chunk.css.map": "/15-puzzle_game-react/static/css/main.111a5afc.chunk.css.map",
     "static/media/App.scss": "/15-puzzle_game-react/static/media/background.a05f1fb3.png"

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "261707966fd4d8a4f97c41a19931c844",
+    "revision": "6778acd8e5d04b1fb69fd267e1ff38a6",
     "url": "/15-puzzle_game-react/index.html"
   },
   {
-    "revision": "c614c5eebb8e0567019e",
+    "revision": "1c301462aa1a6d053aea",
     "url": "/15-puzzle_game-react/static/css/main.111a5afc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/15-puzzle_game-react/static/js/2.76520e5e.chunk.js"
   },
   {
-    "revision": "c614c5eebb8e0567019e",
-    "url": "/15-puzzle_game-react/static/js/main.3021c5b4.chunk.js"
+    "revision": "1c301462aa1a6d053aea",
+    "url": "/15-puzzle_game-react/static/js/main.eee19dce.chunk.js"
   },
   {
     "revision": "a029bd489df3d4fb1015",
