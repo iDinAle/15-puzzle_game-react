@@ -11,11 +11,12 @@ export const generateTiles = () => {
   let index;
 
   while (i >= 0) {
+    i -= 1;
     index = Math.floor((i + 1) * Math.random());
     temp = arr[index];
     arr[index] = arr[i];
     arr[i] = temp;
-    i -= 1;
+
   }
 
   let inv = 0;
