@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css?family=Walter+Turncoat&display=swap");
+
+$decorColor: rgb(95, 106, 255);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Walter Turncoat", cursive;
+}
+
+body {
+  padding-left: 40px;
+  background: url(./images/background.png);
+}
+
+.main-title {
+  margin: 20px 0;
+  color: $decorColor;
+}
+
+.game {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  &__grid {
+    width: 440px;
+    height: 440px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(0, 119, 24, 0.29);
+    border-radius: 10px;
+  }
+
+  &__tile {
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+    border: none;
+    background-color: rgba(255, 255, 165, 1);
+    border-radius: 10px;
+    font-size: 36px;
+    font-family: "Walter Turncoat", cursive;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 100px;
+    user-select: none;
+    cursor: pointer;
+    outline: none;
+
+    &:hover {
+      background-color: rgba(255, 255, 165, 0.88);
+    }
+
+    &--invisible {
+      background-color: rgba(0, 0, 0, 0.11);
+      cursor: unset;
+
+      &:hover {
+        background-color: rgba(0, 0, 0, 0.11);
+      }
+    }
+  }
+
+  &__message {
+    height: 50px;
+    line-height: 50px;
+  }
+
+  &__new-game-btn {
+    outline: none;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: "Walter Turncoat", cursive;
+    border-color: $decorColor;
+    padding: 0 10px;
+    transition: color 1s, background-color 1s;
+
+    &:hover {
+      background-color: $decorColor;
+      color: white;
+    }
+  }
+}
